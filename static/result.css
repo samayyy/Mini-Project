@@ -1,0 +1,26 @@
+.page-wrapper{
+  text-align: center;
+}
+.bckg{
+  background-color: black;
+}
+.heading12{
+  padding-top: 10px;
+}
+.heading1234{
+  font-family: "Bodoni MT", Didot, "Didot LT STD", "Book Antiqua", Garamond, "Times New Roman", serif;
+}
+.data{
+  padding: 15px;
+}
+
+.res{
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
