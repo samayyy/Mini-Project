@@ -7,7 +7,7 @@ import pandas_datareader as web
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
-from keras.models import Sequential
+#from keras.models import Sequential
 from keras.layers import Dense, LSTM
 from keras.models import load_model
 import matplotlib.pyplot as plt
